@@ -13,9 +13,9 @@ Each topic lives in its own dedicated directory so you can quickly reference syn
 ```text
 CheatSheet-AI-ML-Concepts/
 ├── 01-Python-for-AI-ML/
-│   ├── README.md               # Comprehensive Python cheat sheet
+│   ├── README.md               
 ├── 02-Git-for-AI-ML/
-│   └── README.md               # Essential Git commands & branching workflows
+│   └── README.md               
 ├── 03-Exploratory-Data-Analysis/
-│   └── notebooks/              # Part 1 & Part 2 EDA notebooks (Coming Soon)
-└── README.md                   # Master index (You are here)
+│   └── notebooks/             
+└── README.md                  
